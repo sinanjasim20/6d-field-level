@@ -17,8 +17,8 @@
 
 ## التنزيل
 
-[تنزيل ملف APK](https://github.com/sinanjasim20/6d-site-levels-lite/releases/latest/download/6D_SiteLevels_Lite.apk)
+[تنزيل ملف APK](https://github.com/sinanjasim20/6d-field-level/releases/latest/download/6D_FieldLevel.apk)
 
-أو افتحه في المتصفح دون تنصيب، مع ملفات نموذج للتجربة: https://sixthdim-levels.web.app/lite/
+أو افتحه في المتصفح دون تنصيب، مع ملفات نموذج للتجربة: https://sixthdim-levels.web.app
 
 تصميم وبرمجة: د. سنان جاسم هادي – مكتب البعد السادس
